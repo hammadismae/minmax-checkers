@@ -1,7 +1,7 @@
 #!/usr/bin/python
 from tkinter import *
 import tkinter.messagebox
-
+from ABpruning import alphabeta
 
 class CheckerBoard(Frame):
 
